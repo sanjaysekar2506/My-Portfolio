@@ -450,15 +450,14 @@ a {
 /* Image Styling */
 .home-img .img-box .img-item img {
     position: absolute;
-    top: 70%;
-    left: 63%;
+    top: 81%;
+    left: 58%;
     transform: translate(-50%, -50%);
-    width: 134%;
+    width: 147%;
     height: auto;
     object-fit: contain;
     mix-blend-mode: lighten;
 }
-
 /* Bar Animation */
 .bar-animation {
     position: absolute;
